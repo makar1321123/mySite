@@ -45,9 +45,9 @@ h1 {
 
 .content {
 	  width:578px;
-	  height:70vh;
+	  height:50vh;
 	  float:left;
-	  padding: 20px;
+	  padding: 10px;
 	  background:wite;
 	  border-left: 1px solid silver;
 }
